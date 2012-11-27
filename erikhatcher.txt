@@ -1,5 +1,5 @@
 Here's some new text at the top....
 
-hello from Matthew's git tutorial
+hello from Matthew's git tutorial (and later some other changes in the middle)
 
 ... and some new text at the bottom
